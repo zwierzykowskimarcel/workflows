@@ -5,7 +5,7 @@ on:
     
 env:
   DOTNET_VERSION: 10.0.x
-  PROJECT_PATH: C:\Users\s38120\RiderProjects\lab-3-decyzje
+  PROJECT_PATH: /c/Users/s38120/RiderProjects/lab-3-decyzje
 
 jobs:
   build:
